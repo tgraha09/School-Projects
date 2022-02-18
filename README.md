@@ -17,7 +17,7 @@
 ### System: Windows
 ### Frameworks: OpenGL
 ### June 2020 
-* Created various 3D projects in OpenGL with game engine focus along with optimization. 
+* Created 3D projects in OpenGL with game engine focused algorithms along with optimization. 
  
 ## [Unity Game for Casual Game Development - (C#)](https://github.com/tgraha09/P2NG)
 ### System: Browser
